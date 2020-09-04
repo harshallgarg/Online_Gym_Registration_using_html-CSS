@@ -1,1 +1,1 @@
-# Online_Gym_Registration_using_html-CSS-
+# Online_Gym_Registration_using_html-CSS
